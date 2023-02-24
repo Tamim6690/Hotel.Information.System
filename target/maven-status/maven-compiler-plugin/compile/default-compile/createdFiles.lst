@@ -1,0 +1,5 @@
+com\mycompany\hotel\information\system\InvalidAgeException.class
+com\mycompany\hotel\information\system\Human.class
+com\mycompany\hotel\information\system\CustomerType.class
+com\mycompany\hotel\information\system\Customer.class
+com\mycompany\hotel\information\system\Hotel.class
